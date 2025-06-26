@@ -207,6 +207,54 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Tay_han_GOOT\tramhanV2_Soldermask_Top.gbr
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -498,7 +546,7 @@ OutputDefault10=0
 Configuration10_Name1=ForceUpdateSettings
 Configuration10_Item1=False
 Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16973848~1,16973831~1,16908292~1,16908299~1,16973849~1,16908290~1,16908302~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908293~1,16973834~1,16908291~1,16908300~1,16908304~1,16973837~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=D:\My_project\Tram_han_v2\tramhanV2.PcbDoc
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16973848~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16973834~1,16973837~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=D:\My_project\Tram_han_v2\tramhanV2.PcbDoc
 OutputType11=Final
 OutputName11=Final Artwork Prints
 OutputDocumentPath11=
